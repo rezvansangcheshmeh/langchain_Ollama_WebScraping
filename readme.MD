@@ -1,4 +1,4 @@
-markdown
+
 # 📰 BBC News Scraper & NLP Analyzer
 
 This project is a complete pipeline for scraping, analyzing, and summarizing news articles from the BBC website. It uses modern web scraping tools and natural language processing models to extract structured data and store it in a PostgreSQL database.
@@ -86,5 +86,6 @@ Do not commit your .env file to version control.
 Ensure Ollama is installed and running locally for language model access.
 
 Use the synchronous version of Playwright on Windows for compatibility.
+
 
 
