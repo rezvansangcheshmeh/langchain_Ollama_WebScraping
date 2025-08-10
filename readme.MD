@@ -30,13 +30,12 @@ python main.py
 📊 Sample Output
 Instead of using a cluttered table, here’s a clean and readable format for sample entries stored in the database:
 
-```markdown
 ### 📰 1. [Ukraine's European allies say peace talks must include Kyiv](https://www.bbc.com/news/articles/c0e9py7e28xo)  
 **Keywords:** Ukraine, peace talks, Kyiv, allies, European  
 **Category:** International Politics  
 **Summary:** European allies have called for Ukraine to be included in any peace talks with Russia...
 
-```
+
 
 
 
