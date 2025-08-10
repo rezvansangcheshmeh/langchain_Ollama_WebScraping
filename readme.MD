@@ -10,7 +10,7 @@ This project is a complete pipeline for scraping, analyzing, and summarizing new
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ### 2.Create a .env file in the root directory
 
@@ -20,6 +20,7 @@ DB_USER=postgres
 DB_PASSWORD=your_password_here
 DB_HOST=localhost
 DB_PORT=5432
+
 
 
 
