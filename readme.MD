@@ -35,6 +35,18 @@ Instead of using a cluttered table, here’s a clean and readable format for sam
 **Category:** International Politics  
 **Summary:** European allies have called for Ukraine to be included in any peace talks with Russia...
 
+### 🪐 2. [Mars rock found in Niger sells for millions in New York](https://www.bbc.com/news/articles/cly3q635n4no)  
+**Keywords:** Mars rock, Niger, New York, Millions, Answers  
+**Category:** Science and Technology  
+**Summary:** A large meteorite believed to be from Mars was sold by Sotheby's auction house...
+
+### ⚽ 3. [Mohamed Salah calls out UEFA over wording of Palestinian tribute](https://www.bbc.com/sport/football/articles/ckgl6re9922o)  
+**Keywords:** Mohamed Salah, UEFA, Palestinian player, tribute  
+**Category:** Sports & Politics  
+**Summary:** Mohamed Salah criticized UEFA for not mentioning the circumstances surrounding the tribute...
+
+
+
 
 
 
