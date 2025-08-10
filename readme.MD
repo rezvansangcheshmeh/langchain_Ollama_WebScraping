@@ -25,6 +25,16 @@ DB_PORT=5432
 ```bash
 python main.py
 ```
+---
+## 🛠️ Technologies Used
+
+- Python 3.11
+- BeautifulSoup & Playwright (for scraping)
+- PostgreSQL
+- Ollama (for local LLM inference)
+- dotenv
+
+
 
 ---
 📊 Sample Output
@@ -44,6 +54,7 @@ Instead of using a cluttered table, here’s a clean and readable format for sam
 **Keywords:** Mohamed Salah, UEFA, Palestinian player, tribute  
 **Category:** Sports & Politics  
 **Summary:** Mohamed Salah criticized UEFA for not mentioning the circumstances surrounding the tribute...
+
 
 
 
