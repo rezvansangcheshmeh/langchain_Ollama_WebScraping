@@ -31,16 +31,10 @@ python main.py
 Instead of using a cluttered table, here’s a clean and readable format for sample entries stored in the database:
 
 ```markdown
-📰 1. Ukraine's European allies say peace talks must include Kyiv
-Link: View Article Keywords: Ukraine, peace talks, Kyiv, allies, European Category: International Politics Summary: European allies have called for Ukraine to be included in any peace talks with Russia...
-
-🪐 2. Mars rock found in Niger sells for millions in New York
-Link: View Article Keywords: Mars rock, Niger, New York, Millions, Answers Category: Science and Technology Summary: A large meteorite believed to be from Mars was sold by Sotheby's auction house...
-
-⚽ 3. Mohamed Salah calls out Uefa over wording of Palestinian tribute
-Link: View Article Keywords: Mohamed Salah, Uefa, Palestinian player, tribute Category: Sports & Politics Summary: Mohamed Salah criticized UEFA for not mentioning the circumstances surrounding the tribute...
+### 📰 1. Ukraine's European allies say peace talks must include Kyiv **Link:** [مشاهده خبر](https://www.bbc.com/news/articles/c0e9py7e28xo) **Keyword:** Ukraine, peace talks, Kyiv, allies, European **category:** International Politics **summerize:** European allies have called for Ukraine to be included in any peace talks with Russia...
 
 ```
+
 
 
 
