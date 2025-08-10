@@ -21,7 +21,10 @@ DB_PASSWORD=your_password_here
 DB_HOST=localhost
 DB_PORT=5432
 ```
-
+### 3.Run the project
+```bash
+python main.py
+```
 
 
 
