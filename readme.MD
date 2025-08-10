@@ -31,14 +31,22 @@ This project is a complete pipeline for scraping, analyzing, and summarizing new
 ## 📁 Project Structure
 
 news_scraper_project/ 
+
 ├── main.py # Entry point 
+
 ├── config.py # Environment-based configuration 
+
 ├── database/ 
 │ └── db_handler.py # DB connection and storage logic 
+
 ├── scraping/ │ └── bbc_scraper.py # BBC headline scraper 
+
 ├── nlp/ │ ├── analyzer.py # Keyword extraction and classification 
+
 │ └── summarizer.py # Article summarization 
+
 ├── browser/ │ └── playwright_handler.py # Article content retrieval 
+
 └── utils/ └── helpers.py # Utility functions
 
 
@@ -78,4 +86,5 @@ Do not commit your .env file to version control.
 Ensure Ollama is installed and running locally for language model access.
 
 Use the synchronous version of Playwright on Windows for compatibility.
+
 
