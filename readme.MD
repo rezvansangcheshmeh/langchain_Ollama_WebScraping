@@ -60,6 +60,11 @@ Instead of using a cluttered table, here’s a clean and readable format for sam
 
 
 
+## 👤 Author
+
+Built with ❤️ by Rezvan  
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yourprofile) or [GitHub](https://github.com/yourusername)
+
 
 
 
