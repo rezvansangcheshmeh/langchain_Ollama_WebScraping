@@ -13,10 +13,11 @@ pip install -r requirements.txt
 
 ### 2.Create a .env file in the root directory
 
-```bash
+```env
 DB_NAME=web_psql_nlp
 DB_USER=postgres
 DB_PASSWORD=your_password_here
 DB_HOST=localhost
 DB_PORT=5432
+
 
